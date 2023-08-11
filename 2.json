@@ -12,5 +12,8 @@
             "AppSecret": "dfjdfdsfsdjfds343"
         }
 
+    },
+    "login": {
+        "login_url": "http://your.facebook.com"
     }
 }
